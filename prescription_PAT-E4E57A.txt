@@ -1,0 +1,7 @@
+Prescription for Patient ID: PAT-E4E57A
+Name: John Doe
+Age: 34
+Gender: Male
+Department: Cardiology
+Doctor: DOC-D95A2C
+Medical History: Null

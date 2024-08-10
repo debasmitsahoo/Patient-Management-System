@@ -254,6 +254,7 @@ if __name__ == "__main__":
             print("Developed By Debasmit Sahoo")
         
         elif choice == '9':
+            print("Thank You For Using Patient Management System")
             print("Developed By Debasmit Sahoo")
             break
         
