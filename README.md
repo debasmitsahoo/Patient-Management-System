@@ -54,6 +54,22 @@ Enter your choice:
 ```
 - Add Patient
 ```
+Enter patient name: John Doe
+Enter patient age: 22
+Enter patient gender (Male/Female): Male
+Enter medical history: Null
+Available Departments:
+1. Cardiology
+2. Neurology
+3. Pediatrics
+4. Orthopedics
+5. Gynecology
+6. Dermatology
+7. Oncology
+8. Urology
+9. Ophthalmology
+10. ENT
+11. Dentist
 Enter department number: 1
 Available Doctors:
 1. Dr.Random Doctor (ID: DOC-D95A2C)
